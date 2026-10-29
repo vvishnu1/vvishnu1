@@ -1,16 +1,7 @@
 ## Hi there 👋
 
-<!--
-**vvishnu1/vvishnu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a member of Bruin Sports Analytics at UCLA, where I like turning sports data into insights.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on BSA projects
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on BSA projects
+- 🌱 I'm currently learning Machine Learning
+- 🏀 Fun fact: I love playing basketball
